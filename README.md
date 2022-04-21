@@ -1,2 +1,1 @@
-# basic_chat
-project developed to learn about websocket protocol with NodeJs
+projeto para aprender basico sobre websocket
